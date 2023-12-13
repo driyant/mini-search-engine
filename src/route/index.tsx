@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom"
 import Homepage from "../pages/Homepage"
-import Search from "../pages/Search"
+import Search from "../pages/SearchResult"
 
 const router = createBrowserRouter([
   {
